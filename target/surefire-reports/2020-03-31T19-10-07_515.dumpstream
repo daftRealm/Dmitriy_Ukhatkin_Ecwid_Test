@@ -1,0 +1,18 @@
+# Created at 2020-03-31T19:10:08.852
+SLF4J: No SLF4J providers were found.
+
+# Created at 2020-03-31T19:10:08.852
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+
+# Created at 2020-03-31T19:10:08.852
+SLF4J: See http://www.slf4j.org/codes.html#noProviders for further details.
+
+# Created at 2020-03-31T19:10:08.853
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions prior to 1.8.
+
+# Created at 2020-03-31T19:10:08.853
+SLF4J: Ignoring binding found at [jar:file:/Users/dmitryukhatkin/.m2/repository/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+
+# Created at 2020-03-31T19:10:08.854
+SLF4J: See http://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+
